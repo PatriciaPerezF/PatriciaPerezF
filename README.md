@@ -1,7 +1,7 @@
-<h1 align="center">Hey there! I'm Patricia Pérez Felibert 👋 </h1>
-<h3 align="center">🚀 Data Analyst | Data Scientist Jr 🚀</h3>
+<h1 align="center">Hey! I'm Patricia Pérez Felibert </h1>
+<h3 align="center"> Data Analyst | Data Scientist Jr 🚀</h3>
 <div>
-  <h3> 👩‍💻 About Me </h3>
+  <h3>About Me </h3>
 
   - 💡 &nbsp; Learning new technologies for the development of solutions.
   - 🎓 &nbsp; I consider myself as an eternal student. Currently I'm learning more about Data Science.
@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <h3> 💻 Languages and Tools </h3>
+  <h3>Languages and Tools </h3>
 </div> 
 <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
