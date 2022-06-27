@@ -1,4 +1,4 @@
-<h1 align="center">Hey! I'm Patricia Pérez Felibert </h1>
+<h1 align="center">Hey! I'm Patricia </h1>
 <h3 align="center"> Data Analyst | Data Scientist Jr 🚀</h3>
 <div>
   <h3>About Me </h3>
